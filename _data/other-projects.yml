@@ -1,31 +1,9 @@
-- name: Awesome Cloud Build
-  url: https://fullstackgcp.com/awesome-cloud-build-cjydaet2g000o5os1v71zb3v4
-  code: https://github.com/Timtech4u/awesome-cloudbuild
-  description: A curated list of resources about all things Google Cloud Build
+- name: BUK Bus Reservation System
+  url: https://jamilusalis.github.io/buk-sch-bus/
+  code: https://github.com/Jamilusalis/buk-sch-bus
+  description: A bus reservation system, to and fro New Site and Old Site BUK Campus
   used:
-  - thing: Google Cloud Build
-  - thing: Google Container Registry
-
-- name: Full Stack GCP
-  url: https://fullstackgcp.com/
-  code: https://fullstackgcp.com/
-  description: Learn how to use Google Cloud Platform services by following tutorials on #FullStackGCP.
-  used:
-  - thing: All things Google Cloud Platform
-
-- name: Multi-tenant Employee Manager
-  url: http://saidu.myemp.site
-  code: https://github.com/Timtech4u/employee-manager
-  description: A Multitenant App for Employees Mangement and Available Jobs (WIP) - Built with Django Multitenancy.
-  used:
-  - thing: Django
-  - thing: Vuejs
-  - thing: Multitenancy
-
-- name: Deployer.Host
-  url: http://deployer.host
-  code: https://github.com/Timtech4u/deployer.host
-  description: Dashboard to enable easy deployment and management with Dokku.
-  used:
-  - thing: Django
-  - thing: Dokku
+  - thing: JavaScript
+  - thing: HTML/CSS
+  - Firebase
+  
