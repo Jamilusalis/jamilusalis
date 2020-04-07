@@ -1,21 +1,21 @@
 # Site settings
-name: Timothy Olaleke
-title: Timothy Olaleke | Software Engineer
-description: Timothy Olaleke is a highly motivated software developer with solid understanding of software development best practices. I'm also an open source hobbyist & a community mentor keen to change-makers.👨‍
-url: https://timtech4u.github.io
+name: Jamilu Salisu
+title: Jamilu Salisu | Software Engineer
+description: Jamilu Salisu is a highly motivated software developer with solid understanding of software development best practices. I'm also an open source hobbyist & a community mentor keen to change-makers.👨‍
+url: https://Jamilusalis.github.io
 baseurl: ""
-email: timothyolaleke@gmail.com
-keywords: timothy olaleke, engineer, software engineer, computer science, timtech4u
+email: jamilusalis@gmail.com
+keywords: jamilu salisu, engineer, software engineer, computer science, jamilusalis, jamilu
 cover: #
 logo: #
 resume: #
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/timtech4u
+    url: https://www.linkedin.com/in/jamilusalis
   - title: twitter
-    url: https://twitter.com/fullstackgcp
+    url: https://twitter.com/jamilusalism
   - title: github
-    url: https://github.com/timtech4u
+    url: https://github.com/jamilusalis
 
 # Build settings
 markdown: kramdown
