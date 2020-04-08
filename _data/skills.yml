@@ -21,4 +21,4 @@ tools:
 deployment:
   - item: Google Cloud Platform
   - item: Amazon Web Services
-  
+  - item: Microsoft Azure
