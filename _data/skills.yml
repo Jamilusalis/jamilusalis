@@ -16,7 +16,7 @@ tools:
   - item: Git
   - item: Flutter
   - item: Firebase
-  - item: Postman
+  - item: cPanel & Web Host Manager
 
 deployment:
   - item: Google Cloud Platform
