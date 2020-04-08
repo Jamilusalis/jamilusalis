@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <Kelvin Kamau> -- <Software Engineer> -- <@kamaucodes>
+    <Jamilu Salisu> -- <Software Engineer> -- <@Jamilusalis>
 
 # THANKS
 
-    <Kelvin Kamau>
+    <Jamilu Salisu>
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    HTML5, CSS3, JavaScript
+    SQL, PHP, JavaScript, Java
